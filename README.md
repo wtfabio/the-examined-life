@@ -9,19 +9,18 @@ Just started. Literally, I haven't written a single line of code yet.
 4. Customizable data points and correlations.
 
 ### **Overview**
-
-
-| Tracker        | Insight                                       | Tools                                                                                             | Can it be automated? | Implemented? |
-| -------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------- | ------------ |
-| Messaging      | Chat frequency                                | [chat-miner](https://github.com/joweich/chat-miner)                                               | ✅                   | ❌           |
-| Messaging      | Chat mood                                    | -                                                                                                 | ✅                   | ❌           |
-| Computer usage | Time spent in websites/apps                   | [ActivityWatch](https://activitywatch.net/)                                                       | ✅                   | ❌           |
-| Heart rate     | Am I dying?                                   | Smartwatches                                                                                      | ✅                   | ❌           |
-| Time           | Am I using my time wisely?                    | Toggl, Clockify                                                                                   | ✅                   | ❌           |
-| Location       | Where have I been?                            | Google Maps Timeline, [Arc](https://apps.apple.com/us/app/arc-app-location-activity/id1063151918) | ✅                   | ❌           |
-| Finances       | Am I spending my money recklessly?               | -                                                                                                 | ✅                   | ❌           |
-| People         | Who I spend time with the most?               | -                                                                                                 | ❌                   | ❌           |
-| Sleep          | What is the quality and quantity of my sleep? | Smartwatches                                                                                      | ✅                   | ❌           |
-| Water intake   | Am I drinking enough water?                   | NFC tags. Trust me.                                                                          | ✅                | ❌           |
-| Music          | How bad was my musical taste in 2020?         | Last.fm                                                                                           | ✅                   | ❌           |
-| ...            | ...                                           | ...                                                                                               | ...                  | ...          | 
+| Tracker                   | Insight                                       | Tools                                                                                             | Can it be automated? | Implemented? |
+| ------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------- | ------------ |
+| Messaging                 | Chat frequency                                | [chat-miner](https://github.com/joweich/chat-miner)                                               | ✅                   | ❌           |
+| Messaging                 | Chat mood                                     | -                                                                                                 | ✅                   | ❌           |
+| Computer usage            | Time spent in websites/apps                   | [ActivityWatch](https://activitywatch.net/)                                                       | ✅                   | ❌           |
+| Heart rate                | Am I dying?                                   | Smartwatches                                                                                      | ✅                   | ❌           |
+| Time                      | Am I using my time wisely?                    | Toggl, Clockify                                                                                   | ✅                   | ❌           |
+| Location                  | Where have I been?                            | Google Maps Timeline, [Arc](https://apps.apple.com/us/app/arc-app-location-activity/id1063151918) | ✅                   | ❌           |
+| Finances                  | Am I spending money recklessly?               | -                                                                                                 | ✅                   | ❌           |
+| People                    | Who do I spend time with the most?            | -                                                                                                 | ❌                   | ❌           |
+| Sleep                     | What is the quality and quantity of my sleep? | Smartwatches                                                                                      | ✅                   | ❌           |
+| Water intake              | Am I drinking enough water?                   | NFC tags and a glass of water                                                                     | Sorta                | ❌           |
+| Music                     | How bad was my musical taste in 2020?         | Last.fm                                                                                           | ✅                   | ❌           |
+| Visual regression testing | What is aging doing with my pretty face?      | [Photo-a-day Aligner](https://github.com/matthewearl/photo-a-day-aligner)                         | ✅                   | ❌           |
+| ...                       | ...                                           | ...                                                                                               | ...                  | ...          |
